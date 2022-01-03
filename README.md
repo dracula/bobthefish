@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [bobthefish](https://github.com/oh-my-fish/theme-bobthefish).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/bobthefish](https://draculatheme.com/bobthefish).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) team.
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![xsteadfastx](https://github.com/xsteadfastx.png?size=100)](https://github.com/xsteadfastx) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[xsteadfastx](https://github.com/xsteadfastx) |
 
 ## License
 
